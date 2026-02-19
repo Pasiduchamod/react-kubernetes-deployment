@@ -119,6 +119,6 @@ kubectl get svc
 **Pasidu Chamod**
 
 - 🐙 **GitHub:** [PasiduChamod](https://github.com/Pasiduchamod)
-- 💼 **LinkedIn:** [PasiduChamod](https://linkedin.com/in/pasiduchamod)
+- 💼 **LinkedIn:** [PasiduChamod](https://linkedin.com/in/pasidu-chamod)
 
 ---
