@@ -115,24 +115,10 @@ kubectl get svc
 
 ---
 
-
-## 🌐 Accessing the App
-The application is live and accessible at the following address:
-
-**🔗 [http://54.227.188.94:3000](http://54.227.188.94:3000)**
-
-*(Ensure your EC2 instance security group allows traffic on port 3000)*
-
----
-
 ## ✍️ Author
 **Pasidu Chamod**
 
-- 🐙 **GitHub:** [Pasiduchamod](https://github.com/Pasiduchamod)
-- 💼 **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/your-profile)
+- 🐙 **GitHub:** [PasiduChamod](https://github.com/Pasiduchamod)
+- 💼 **LinkedIn:** [PasiduChamod](https://linkedin.com/in/pasiduchamod)
 
 ---
-
-<p align="center">
-  Generated with ❤️ by Antigravity
-</p>
